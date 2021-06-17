@@ -1,0 +1,23 @@
+{
+  "name": "demosocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "exiter": "^1.0.0",
+    "express": "^4.17.1",
+    "node": "^15.3.0",
+    "node-disk-info": "^1.1.0",
+    "shutdown-hook": "^1.1.7",
+    "socket.io": "^2.3.0",
+    "usb": "^1.6.3",
+    "usb-detection": "^4.10.0",
+    "wintools": "^0.1.0"
+  }
+}
